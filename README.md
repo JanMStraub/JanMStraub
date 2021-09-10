@@ -31,14 +31,14 @@
     <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=janmstraub&show_icons=true&locale=en&layout=compact" alt="janmstraub" /></p>
 </details>
 
----
+<br>
 
 <details>
   <summary>:zap: GitHub Stats</summary>
     <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=janmstraub&show_icons=true&locale=en" alt="janmstraub" /></p>
 </details>
 
----
+<br>
 
 <details>
   <summary>:zap: GitHub Streak</summary>
