@@ -8,8 +8,9 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [Evolution-of-particle-systems](https://github.com/JanMStraub/Evolution-of-particle-systems)
+     and on my bachelor thesis [Visualization-of-Heat-Waves](https://github.com/JanMStraub/Visualization-of-Heat-Waves)
 
-- 🌱 I’m currently learning **C#, Unity and compute shaders**
+- 🌱 I’m currently learning **ParaView and scientific visualization**
 
 - 📫 How to reach me **Straub.JanM@gmail.com**
 
