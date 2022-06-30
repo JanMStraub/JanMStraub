@@ -7,9 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on my bachelor thesis [Edge-Bundling](https://github.com/JanMStraub/Visualization-of-Heat-Waves)
+- 🔭 I’m currently working on my bachelor thesis [Local Iterative Optimization for Graph Bundling
+](https://github.com/JanMStraub/Visualization-of-Heat-Waves)
 
-- 🌱 I’m currently learning **ParaView and scientific visualization**
+- 🌱 I’m currently learning **everything about Steiner Trees and Edge Bundling**
 
 - 📫 How to reach me **Straub.JanM@gmail.com**
 
