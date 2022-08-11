@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **Straub.JanM@gmail.com**
 
-- ⚡ Fun fact **I love Aquariums**
+- ⚡ Fun fact **I love aquariums**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
