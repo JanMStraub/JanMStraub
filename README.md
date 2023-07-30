@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on my bachelor thesis [Local Iterative Optimization for Graph Bundling
-](https://github.com/JanMStraub/Visualization-of-Heat-Waves)
+- 🔭 I’m currently working on a machine learning project [Bomberman]([https://github.com/JanMStraub/Visualization-of-Heat-Waves](https://github.com/JanMStraub/ML_bomberman_project))
 
 - 🌱 I’m currently learning **everything about Steiner Trees and Edge Bundling**
 
