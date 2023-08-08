@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on a machine learning project [Bomberman](https://github.com/JanMStraub/ML_bomberman_project)
 
-- 🌱 I’m currently learning **everything about Steiner Trees and Edge Bundling**
+- 🌱 I’m currently learning **Cyber Security**
 
 - 📫 How to reach me **Straub.JanM@gmail.com**
 
