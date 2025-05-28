@@ -7,19 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on a machine learning project [Bomberman](https://github.com/JanMStraub/ML_bomberman_project)
+- 🔭 I’m currently working on my master thesis.
 
-- 🌱 I’m currently learning **Cyber Security**
+- 🌱 I’m currently learning **Robotics and Machine Learning**
 
-- 📫 How to reach me **Straub.JanM@gmail.com**
+- 📫 How to reach me **janmstraub@protonmail.com**
 
 - ⚡ Fun fact **I love aquariums**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/aw3somenaut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aw3somenaut" height="30" width="40" /></a>
-<a href="https://discord.gg/#1144" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1144" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
