@@ -17,6 +17,7 @@
 - 🤖 Exploring **Robotics and Machine Learning**
 - 🐠 Fun fact: I'm passionate about **aquariums**
 - 📧 Reach me at: **janmstraub@protonmail.com**
+- 💼 Connect with me on **[LinkedIn](https://linkedin.com/in/janmstraub)**
 
 ---
 
@@ -48,20 +49,6 @@
     <img src="https://github-readme-stats.vercel.app/api?username=janmstraub&show_icons=true&locale=en&theme=tokyonight" alt="GitHub stats" />
   </p>
 </details>
-
-<details>
-  <summary><b>🔥 Streak Stats</b></summary>
-  <br/>
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=janmstraub&theme=tokyonight" alt="GitHub streak" />
-  </p>
-</details>
-
----
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=janmstraub&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub trophies" />
-</div>
 
 ---
 
