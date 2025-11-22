@@ -17,7 +17,6 @@
 - 🤖 Exploring **Robotics and Machine Learning**
 - 🐠 Fun fact: I'm passionate about **aquariums**
 - 📧 Reach me at: **janmstraub@protonmail.com**
-- 💼 Connect with me on **[LinkedIn](https://linkedin.com/in/janmstraub)**
 
 ---
 
