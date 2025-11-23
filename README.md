@@ -16,7 +16,6 @@
 - 🔬 Currently working on my **Master's Thesis**
 - 🤖 Exploring **Robotics and Machine Learning**
 - 🐠 Fun fact: I'm passionate about **aquariums**
-- 📧 Reach me at: **janmstraub@protonmail.com**
 
 ---
 
