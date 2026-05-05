@@ -1,6 +1,6 @@
 <div align="center">                                                             
                                                     
-  # Jan Michael Straub                                                             
+  # Jan M. Straub                                                             
                                                 
   **Software Architect · LLM × Robotics Researcher**                               
   M.Sc. Data & Computer Science · Universität Heidelberg
