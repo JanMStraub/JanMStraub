@@ -5,12 +5,9 @@
   **Software Architect · LLM × Robotics Researcher**                               
   M.Sc. Data & Computer Science · Universität Heidelberg
                                                                                    
-  [![Email](https://img.shields.io/badge/Email-work.straub@protonmail.com-red?style
-  =flat-square&logo=protonmail)](mailto:work.straub@protonmail.com)                
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jan_Straub-0077B5?style=flat-s
-  quare&logo=linkedin)](https://www.linkedin.com/in/Jan%20Straub)                  
-  [![GitHub](https://img.shields.io/badge/GitHub-JanMStraub-181717?style=flat-squar
-  e&logo=github)](https://github.com/JanMStraub)                                   
+  [![Email](https://img.shields.io/badge/Email-work.straub@protonmail.com-red?style=flat-square&logo=protonmail)](mailto:work.straub@protonmail.com)                
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Jan_Straub-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/Jan%20Straub)                  
+  [![GitHub](https://img.shields.io/badge/GitHub-JanMStraub-181717?style=flat-square&logo=github)](https://github.com/JanMStraub)                                   
                                                     
   </div>                                                                           
                                                     
@@ -18,8 +15,7 @@
                                                 
   ### About
 
-  - **Thesis**: LLM-driven cooperative control for dual AR4 robot arms — distributed negotiation protocol, RAG-augmented command pipeline, ROS 2 + Unity
-  sim                                                                              
+  - **Thesis**: LLM-driven cooperative control for dual AR4 robot arms — distributed negotiation protocol, RAG-augmented command pipeline, ROS 2 + Unity sim                                                                              
   - **Industry**: Technical Lead @ Janitos Versicherung AG — full operational responsibility for enterprise input management systems (Oracle APEX, NOVO CxP, Airflow)                                      
   - **Background**: Computer Science + History/Philosophy                                       
                                                      
