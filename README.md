@@ -36,7 +36,7 @@
                                                                                    
   ### Projects                                       
                                                      
-  #### [Cooperative Robot Behavior from Basic Action Modules]([https://github.com/JanMStraub](https://github.com/JanMStraub/Cooperative-Robot-Behavior-from-Basic-Action-Modules))
+  #### [Cooperative Robot Behavior from Basic Action Modules](https://github.com/JanMStraub/Cooperative-Robot-Behavior-from-Basic-Action-Modules)
   Master's thesis. Multi-agent LLM coordination for dual robot arms. Distributed negotiation protocol, RAG command pipeline, Unity simulation, ROS 2 + MoveIt 2 planning.                                          
   `Python` `ROS 2` `Unity` `C#` `LLMs` `RAG`                                       
                                                                                    
@@ -44,17 +44,13 @@
   Explorable 3D game on Klein bottle and Boy's surface. Custom raycast gravity, portal rendering, non-Euclidean geometry in real-time.                           
   `Unity` `C#` `ShaderLab` `HLSL`                    
                                                                                    
-  #### [CV-Fish-Abundance]([https://github.com/JanMStraub/CV-Fish-Abundance](https://github.com/JanMStraub/CV-Fish-Abundance))        
+  #### [CV-Fish-Abundance](https://github.com/JanMStraub/CV-Fish-Abundance)        
   Real-time underwater fish detection and classification. GMM + optical flow preprocessing for YOLOv7.                                                        
   `Python` `YOLOv7` `OpenCV` `PyTorch`              
 
   #### [Local Iterative Optimization for Graph Bundling](https://github.com/JanMStraub/Local-Iterative-Optimization-for-Graph-Bundling)                             
   Bachelor's thesis. Novel edge-bundling via Physarum-approximated Steiner trees as routing structures. Reduces node-edge overlap, improves large graph readability.                                                              
-  `Python` `Graph Theory` `Computational Geometry`
-                                                                                   
-  #### RoboScan                                     
-  3D environment scanning with AR4 robot arm.                                      
-  `Python` `Unity` `C#`                                                            
+  `Python` `Graph Theory` `Computational Geometry`                                                       
                                                                                    
   ---                                                                              
                                                                                    
